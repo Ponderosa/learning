@@ -15,6 +15,10 @@
 
 **LeetCode** - https://leetcode.com/
 
+# Classes
+**Stanford Algorithms** - https://www.coursera.org/specializations/algorithms
+**Math 6.042J MIT** - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/
+
 # Blogs
 **EmbeddedGurus** - https://embeddedgurus.com/
 
